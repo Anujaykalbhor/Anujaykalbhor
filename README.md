@@ -5,7 +5,7 @@
 
 <!-- Contact Badges -->
 <p align="center">
-  <a href="mailto:kalbhoranujay@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalbhoranujay@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" />
 </a>
   <a href="https://www.linkedin.com/in/anujay-kalbhor"><img src="https://img.shields.io/badge/LinkedIn-Anujay%20Kalbhor-0A66C2?style=for-the-badge&logo=linkedin" /></a>
