@@ -18,30 +18,50 @@
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
 🎓 **PG‑DBDA (Aug 2025)** graduate @ CDAC  
-⚡ Skilled in **Python · NLP · Big Data · Cloud Deployments**  
+⚡ Skilled in **Python · SQL · ML · Big Data · Cloud Deployments**  
 💡 Always building tools that make data work smarter, not harder.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, C++, JavaScript, HTML, CSS  
-**Data Science:** Pandas, NumPy, Scikit‑Learn, Jupyter  
-**Backend:** Flask, FastAPI  
-**Databases:** MySQL, SQL Server  
-**Cloud & Big Data:** AWS, Azure, Docker, Hadoop, Spark  
-**Visualization:** Power BI, Tableau, Figma, Bootstrap  
-**Tools:** Git, GitHub, VS Code, Postman, Linux
+**Languages & Scripting:**  
+<img src="https://skillicons.dev/icons?i=python,java" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
+
+**Data Science:**  
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="28"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="28"/>
+<img src="https://skillicons.dev/icons?i=jupyter" />
+
+**Backend & APIs:**  
+<img src="https://skillicons.dev/icons?i=flask,fastapi" />
+
+**Databases:**  
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+**Cloud & Big Data:**  
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,hadoop" />
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" height="28"/>
+
+**Visualization & UI:**  
+<img src="https://skillicons.dev/icons?i=figma,bootstrap" />
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/>
+
+**Dev Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
 ---
 
 ## 📂 Featured Projects
 
 **🎯 Stock News Sentiment → Price Prediction**  
-NLP model predicting stock price direction using news headlines + market data.
+ML model predicting stock price direction using news headlines + market data.
 
 **🧠 End‑to‑End Text Summarization**  
-Abstractive + extractive NLP pipeline with AWS deployment and CI/CD.
+Abstractive + extractive ML pipeline with AWS deployment and CI/CD.
 
 **📊 Tata Motors Trend Analysis**  
 Big data analysis in PySpark for trend detection and forecasting.
