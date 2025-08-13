@@ -13,13 +13,14 @@
 ---
 
 ## 🚀 About Me
-<img align="right" alt="Coding" width="300" src="https://i.ibb.co/vQDYfR0/coding-image.jpg">
+<img align="right" alt="Coding" width="300" src="https://i.ibb.co/6WZVZbV/working-laptop.gif">
 
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
 🎓 **PG-DBDA (Aug 2025)** graduate @ CDAC  
 ⚡ Skilled in **Python · SQL · ML · Big Data · Cloud Deployments**  
 💡 Always building tools that make data work smarter, not harder.
+
 
 ---
 
