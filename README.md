@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="28"/>&nbsp;Pandas &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="28"/>&nbsp;NumPy &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="28"/>&nbsp;Scikit-Learn &nbsp;&nbsp;
-<img src="/mnt/data/6075f3b2-e00a-49e2-a795-eb2cfec6ae9d.png" width="40" height="40"/>&nbsp;Jupyter
+<img src="/mnt/data/c4b3004b-eea0-4925-bcf2-17151265448c.png" width="40" height="40"/>&nbsp;Jupyter
 </p>
 
 **Backend & APIs:**
