@@ -13,7 +13,7 @@
 ---
 
 ## ​ About Me
-<img align="right" alt="Working on laptop" width="300" src="assets/working-laptop.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif">
 
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
