@@ -17,7 +17,7 @@
 
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
-🎓 **PG‑DBDA (Aug 2025)** graduate @ CDAC  
+🎓 **PG-DBDA (Aug 2025)** graduate @ CDAC  
 ⚡ Skilled in **Python · SQL · ML · Big Data · Cloud Deployments**  
 💡 Always building tools that make data work smarter, not harder.
 
@@ -25,87 +25,54 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
 
 ## 🛠 Tech Stack
 
-**Languages & Scripting:**  
+**Languages & Scripting:**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" /><br>Python&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/><br>SQL&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" /><br>Java
+<img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>&nbsp;Python&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="SQL"/>&nbsp;SQL&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/>&nbsp;Java
 </p>
 
-**Data Science:**  
+**Data Science:**
 <p align="left">
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="28"/><br>Pandas&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="28"/><br>NumPy&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="28"/><br>Scikit-Learn&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=jupyter" /><br>Jupyter
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="28"/>&nbsp;Pandas&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="28"/>&nbsp;NumPy&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="28"/>&nbsp;Scikit-Learn&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=jupyter" width="40" height="40" alt="Jupyter"/>&nbsp;Jupyter
 </p>
 
-**Backend & APIs:**  
+**Backend & APIs:**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flask" /><br>Flask&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI
+<img src="https://skillicons.dev/icons?i=flask" width="40" height="40" alt="Flask"/>&nbsp;Flask&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="40" height="40" alt="FastAPI"/>&nbsp;FastAPI
 </p>
 
-**Databases:**  
+**Databases:**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL
+<img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>&nbsp;MySQL
 </p>
 
-**Cloud & Big Data:**  
+**Cloud & Big Data:**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws" /><br>AWS&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=azure" /><br>Azure&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" /><br>Docker&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=hadoop" /><br>Hadoop&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" height="28"/><br>Apache Spark
+<img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="AWS"/>&nbsp;AWS&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=azure" width="40" height="40" alt="Azure"/>&nbsp;Azure&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker"/>&nbsp;Docker&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=hadoop" width="40" height="40" alt="Hadoop"/>&nbsp;Hadoop&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" height="28"/>&nbsp;Apache Spark
 </p>
 
-**Visualization & UI:**  
+**Visualization & UI:**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=figma" /><br>Figma&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/><br>Streamlit&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/><br>Power BI&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/><br>Tableau
+<img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/>&nbsp;Figma&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>&nbsp;Streamlit&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>&nbsp;Power BI&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/>&nbsp;Tableau
 </p>
 
-**Dev Tools:**  
+**Dev Tools:**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git" /><br>Git&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" /><br>GitHub&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" /><br>Postman&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" /><br>Linux
-</p>
-
----
-
-## 📂 Featured Projects
-
-**🎯 Stock News Sentiment → Price Prediction**  
-ML model predicting stock price direction using news headlines + market data.
-
-**🧠 End‑to‑End Text Summarization**  
-Abstractive + extractive ML pipeline with AWS deployment and CI/CD.
-
-**📊 Tata Motors Trend Analysis**  
-Big data analysis in PySpark for trend detection and forecasting.
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-<img width=390 src="https://streak-stats.demolab.com?user=Anujaykalbhor&theme=react&hide_border=true" />
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=Anujaykalbhor&show_icons=true&theme=react&hide_border=true" />
-</p>
-<p align="center">
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anujaykalbhor&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-<h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+%E2%9C%8C%EF%B8%8F;Let's+connect+on+LinkedIn!">
-</h3>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Anujaykalbhor&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>&nbsp;Git&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>&nbsp;GitHub&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/>&nbsp;VS Code&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman"/>&nbsp;Postman&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/>&nbsp;Linux
 </p>
