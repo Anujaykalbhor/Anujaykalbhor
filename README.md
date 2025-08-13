@@ -5,7 +5,9 @@
 
 <!-- Contact Badges -->
 <p align="center">
-  <a href="mailto:kalbhoranujay@gmail.com"><img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:kalbhoranujay@gmail.com">
+  <img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
   <a href="https://www.linkedin.com/in/anujay-kalbhor"><img src="https://img.shields.io/badge/LinkedIn-Anujay%20Kalbhor-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/Anujaykalbhor"><img src="https://img.shields.io/badge/GitHub-Anujaykalbhor-181717?style=for-the-badge&logo=github" /></a>
 </p>
