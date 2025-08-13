@@ -1,4 +1,4 @@
-```md
+
 <!-- Animated Intro Banner -->
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Anujay+Kalbhor+%F0%9F%91%8B;Data+Analyst;Machine+Learning+Enthusiast;Cloud+Data+Engineer+in+Making"/>
@@ -110,4 +110,4 @@ Big data analysis in PySpark for trend detection and forecasting.
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Anujaykalbhor&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
-```
+
