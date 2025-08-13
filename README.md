@@ -26,32 +26,90 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
 ## 🛠 Tech Stack
 
 **Languages & Scripting:**  
-<img src="https://skillicons.dev/icons?i=python,java" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
+<p>
+<img src="https://skillicons.dev/icons?i=python" /><br>Python
+</p>
+<p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/><br>SQL
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=java" /><br>Java
+</p>
 
 **Data Science:**  
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="28"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="28"/>
-<img src="https://skillicons.dev/icons?i=jupyter" />
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="28"/><br>Pandas
+</p>
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="28"/><br>NumPy
+</p>
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" height="28"/><br>Scikit-Learn
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=jupyter" /><br>Jupyter
+</p>
 
 **Backend & APIs:**  
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
+<p>
+<img src="https://skillicons.dev/icons?i=flask" /><br>Flask
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" /><br>FastAPI
+</p>
 
 **Databases:**  
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" /><br>MySQL
+</p>
 
 **Cloud & Big Data:**  
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,hadoop" />
-<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" height="28"/>
+<p>
+<img src="https://skillicons.dev/icons?i=aws" /><br>AWS
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=azure" /><br>Azure
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=docker" /><br>Docker
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=hadoop" /><br>Hadoop
+</p>
+<p>
+<img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black" height="28"/><br>Apache Spark
+</p>
 
 **Visualization & UI:**  
-<img src="https://skillicons.dev/icons?i=figma,bootstrap" />
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/>
+<p>
+<img src="https://skillicons.dev/icons?i=figma" /><br>Figma
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap" /><br>Bootstrap
+</p>
+<p>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/><br>Power BI
+</p>
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/><br>Tableau
+</p>
 
 **Dev Tools:**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=git" /><br>Git
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=github" /><br>GitHub
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=postman" /><br>Postman
+</p>
+<p>
+<img src="https://skillicons.dev/icons?i=linux" /><br>Linux
+</p>
 
 ---
 
