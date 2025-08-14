@@ -6,16 +6,20 @@
 <!-- Contact Badges -->
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalbhoranujay@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" />
-</a>
-  <a href="https://www.linkedin.com/in/anujay-kalbhor"><img src="https://img.shields.io/badge/LinkedIn-Anujay%20Kalbhor-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Anujaykalbhor"><img src="https://img.shields.io/badge/GitHub-Anujaykalbhor-181717?style=for-the-badge&logo=github" /></a>
+    <img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/anujay-kalbhor">
+    <img src="https://img.shields.io/badge/LinkedIn-Anujay%20Kalbhor-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Anujaykalbhor">
+    <img src="https://img.shields.io/badge/GitHub-Anujaykalbhor-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## ​ About Me
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/7e6b41b94b2b0a3f7dbf1a4d659fe90d.gif">
+## 📌 About Me
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
@@ -25,7 +29,7 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
 
 ---
 
-## ​ Tech Stack
+## 🛠 Tech Stack
 
 **Languages & Scripting:**  
 <p align="left">
@@ -81,58 +85,58 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
 
 ---
 
-## 📂 Featured Projects (Classic View)
+## 📂 Featured Projects (Classic Card View)
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #444; border-radius:10px; padding:10px;">
 <h3 align="center">📊 Stock News Sentiment → Price Prediction</h3>
 <p align="center">
-<img src="https://via.placeholder.com/300x150.png?text=Stock+Prediction" alt="Preview" width="300"/>
+<img src="https://via.placeholder.com/400x200.png?text=Stock+Prediction+Preview" alt="Stock Prediction" width="90%" style="border-radius:10px;"/>
 </p>
 <p align="center">
 <a href="https://github.com/Anujaykalbhor/stock-price-prediction">
-<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #444; border-radius:10px; padding:10px;">
 <h3 align="center">🧠 End-to-End Text Summarization</h3>
 <p align="center">
-<img src="https://via.placeholder.com/300x150.png?text=Text+Summarization" alt="Preview" width="300"/>
+<img src="https://via.placeholder.com/400x200.png?text=Text+Summarization+Preview" alt="Text Summarization" width="90%" style="border-radius:10px;"/>
 </p>
 <p align="center">
 <a href="https://github.com/Anujaykalbhor/text-summarization">
-<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #444; border-radius:10px; padding:10px;">
 <h3 align="center">📈 Tata Motors Trend Analysis</h3>
 <p align="center">
-<img src="https://via.placeholder.com/300x150.png?text=Tata+Motors+Analysis" alt="Preview" width="300"/>
+<img src="https://via.placeholder.com/400x200.png?text=Tata+Motors+Trend+Analysis" alt="Tata Motors Analysis" width="90%" style="border-radius:10px;"/>
 </p>
 <p align="center">
 <a href="https://github.com/Anujaykalbhor/tata-motors-analysis">
-<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border:1px solid #444; border-radius:10px; padding:10px;">
 <h3 align="center">🏨 Hotel Insight Analysis</h3>
 <p align="center">
-<img src="https://via.placeholder.com/300x150.png?text=Hotel+Insight+Analysis" alt="Preview" width="300"/>
+<img src="https://via.placeholder.com/400x200.png?text=Hotel+Insight+Analysis" alt="Hotel Insight Analysis" width="90%" style="border-radius:10px;"/>
 </p>
 <p align="center">
 <a href="https://github.com/Anujaykalbhor/Hotel_Insight_Analysis">
-<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
@@ -143,7 +147,7 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
 
 ---
 
-## ​ GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
   <img width="390" src="https://streak-stats.demolab.com?user=Anujaykalbhor&theme=react&hide_border=true" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Anujaykalbhor&show_icons=true&theme=react&hide_border=true" />
