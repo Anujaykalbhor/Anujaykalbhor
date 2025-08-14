@@ -15,7 +15,7 @@
 ---
 
 ## ​ About Me
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif">
+<img align="right" alt="Coding" width="300" src="[https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif](https://cdn.dribbble.com/userupload/18189813/file/original-2791a9dd6c45e7429d00bb1387629764.mp4)">
 
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
