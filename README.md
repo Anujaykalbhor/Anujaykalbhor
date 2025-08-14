@@ -6,21 +6,16 @@
 <!-- Contact Badges -->
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalbhoranujay@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/anujay-kalbhor" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Anujay%20Kalbhor-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/Anujaykalbhor" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Anujaykalbhor-181717?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+  <a href="https://www.linkedin.com/in/anujay-kalbhor"><img src="https://img.shields.io/badge/LinkedIn-Anujay%20Kalbhor-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Anujaykalbhor"><img src="https://img.shields.io/badge/GitHub-Anujaykalbhor-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
 
 ## ​ About Me
-<!-- If you later upload your own GIF, replace the src with your local path, e.g. ./assets/working-2d.gif -->
-<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/7e6b41b94b2b0a3f7dbf1a4d659fe90d.gif">
 
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
@@ -75,18 +70,76 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/> <sub>Tableau</sub>
 </p>
 
+**Dev Tools:**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="40"/> <sub>Git</sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="40"/> <sub>GitHub</sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <sub>VS Code</sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/> <sub>Postman</sub>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="40"/> <sub>Linux</sub>
+</p>
+
 ---
 
-## ​ Featured Projects
+## 📂 Featured Projects (Classic View)
 
-**🎯 Stock News Sentiment → Price Prediction**  
-ML model predicting stock price direction using news headlines + market data.
+<div align="center">
 
-**🧠 End-to-End Text Summarization**  
-Abstractive + extractive ML pipeline with AWS deployment and CI/CD.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">📊 Stock News Sentiment → Price Prediction</h3>
+<p align="center">
+<img src="https://via.placeholder.com/300x150.png?text=Stock+Prediction" alt="Preview" width="300"/>
+</p>
+<p align="center">
+<a href="https://github.com/Anujaykalbhor/stock-price-prediction">
+<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+</td>
 
-**📊 Tata Motors Trend Analysis**  
-Big data analysis in PySpark for trend detection and forecasting.
+<td width="50%" valign="top">
+<h3 align="center">🧠 End-to-End Text Summarization</h3>
+<p align="center">
+<img src="https://via.placeholder.com/300x150.png?text=Text+Summarization" alt="Preview" width="300"/>
+</p>
+<p align="center">
+<a href="https://github.com/Anujaykalbhor/text-summarization">
+<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">📈 Tata Motors Trend Analysis</h3>
+<p align="center">
+<img src="https://via.placeholder.com/300x150.png?text=Tata+Motors+Analysis" alt="Preview" width="300"/>
+</p>
+<p align="center">
+<a href="https://github.com/Anujaykalbhor/tata-motors-analysis">
+<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">🏨 Hotel Insight Analysis</h3>
+<p align="center">
+<img src="https://via.placeholder.com/300x150.png?text=Hotel+Insight+Analysis" alt="Preview" width="300"/>
+</p>
+<p align="center">
+<a href="https://github.com/Anujaykalbhor/Hotel_Insight_Analysis">
+<img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
