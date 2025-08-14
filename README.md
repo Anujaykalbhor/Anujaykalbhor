@@ -15,7 +15,7 @@
 ---
 
 ## ​ About Me
-<img align="right" alt="Coding" width="300" src="[https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif](https://cdn.dribbble.com/userupload/18189813/file/original-2791a9dd6c45e7429d00bb1387629764.mp4)">
+<img align="right" alt="Coding" width="300" src="https://dribbble.com/shots/25065513-Freelance-Working-2D-Animation?utm_source=Clipboard_Shot&utm_campaign=DigitalCrocs&utm_content=Freelance%20Working%202D%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=DigitalCrocs&utm_content=Freelance%20Working%202D%20Animation&utm_medium=Social_Share">
 
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
