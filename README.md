@@ -92,24 +92,24 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
 <table>
 <tr>
 <td width="50%" valign="top" style="border:1px solid #444; border-radius:10px; padding:10px;">
-<h3 align="center">📊 Stock News Sentiment → Price Prediction</h3>
+<h3 align="center">📊 Stock Market Data Analysis and Trend Forecasting using PySpark</h3>
 <p align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Stock+Prediction+Preview" alt="Stock Prediction" width="90%" style="border-radius:10px;"/>
+<strong>Tech Stack:</strong> PySpark · Python · Pandas · Matplotlib · Machine Learning
 </p>
 <p align="center">
-<a href="https://github.com/Anujaykalbhor/stock-price-prediction">
+<a href="https://github.com/Anujaykalbhor/Stock-Market-Data-Analysis-and-Trend-Forecasting-using-PySpark">
 <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
 </td>
 
 <td width="50%" valign="top" style="border:1px solid #444; border-radius:10px; padding:10px;">
-<h3 align="center">🧠 End-to-End Text Summarization</h3>
+<h3 align="center">🧠 End-to-End Text Summarization using NLP and AWS Deployment</h3>
 <p align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Text+Summarization+Preview" alt="Text Summarization" width="90%" style="border-radius:10px;"/>
+<strong>Tech Stack:</strong> Python · NLP · Transformers · AWS · Flask
 </p>
 <p align="center">
-<a href="https://github.com/Anujaykalbhor/text-summarization">
+<a href="https://github.com/Anujaykalbhor/End-to-End-Text-Summarization-using-NLP-and-AWS-Deployment">
 <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
@@ -118,12 +118,12 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
 
 <tr>
 <td width="50%" valign="top" style="border:1px solid #444; border-radius:10px; padding:10px;">
-<h3 align="center">📈 Tata Motors Trend Analysis</h3>
+<h3 align="center">📈 Stock Prediction using News Sentiment</h3>
 <p align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Tata+Motors+Trend+Analysis" alt="Tata Motors Analysis" width="90%" style="border-radius:10px;"/>
+<strong>Tech Stack:</strong> Python · FinBERT · GRU · yFinance · Pandas
 </p>
 <p align="center">
-<a href="https://github.com/Anujaykalbhor/tata-motors-analysis">
+<a href="https://github.com/Anujaykalbhor/Stock-prediction-using-news-sentiment">
 <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github" />
 </a>
 </p>
@@ -132,7 +132,7 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
 <td width="50%" valign="top" style="border:1px solid #444; border-radius:10px; padding:10px;">
 <h3 align="center">🏨 Hotel Insight Analysis</h3>
 <p align="center">
-<img src="https://via.placeholder.com/400x200.png?text=Hotel+Insight+Analysis" alt="Hotel Insight Analysis" width="90%" style="border-radius:10px;"/>
+<strong>Tech Stack:</strong> Python · Pandas · Matplotlib · Seaborn
 </p>
 <p align="center">
 <a href="https://github.com/Anujaykalbhor/Hotel_Insight_Analysis">
