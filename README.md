@@ -6,16 +6,21 @@
 <!-- Contact Badges -->
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kalbhoranujay@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" />
-</a>
-  <a href="https://www.linkedin.com/in/anujay-kalbhor"><img src="https://img.shields.io/badge/LinkedIn-Anujay%20Kalbhor-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Anujaykalbhor"><img src="https://img.shields.io/badge/GitHub-Anujaykalbhor-181717?style=for-the-badge&logo=github" /></a>
+    <img src="https://img.shields.io/badge/Email-kalbhoranujay%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/anujay-kalbhor" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anujay%20Kalbhor-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Anujaykalbhor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Anujaykalbhor-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
 ## ​ About Me
-<img align="right" alt="Coding" width="300" src="https://dribbble.com/shots/25065513-Freelance-Working-2D-Animation?utm_source=Clipboard_Shot&utm_campaign=DigitalCrocs&utm_content=Freelance%20Working%202D%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=DigitalCrocs&utm_content=Freelance%20Working%202D%20Animation&utm_medium=Social_Share">
+<!-- If you later upload your own GIF, replace the src with your local path, e.g. ./assets/working-2d.gif -->
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw numbers into actionable insights.
 
@@ -68,15 +73,6 @@ Hi! I'm **Anujay Kalbhor**, a data enthusiast passionate about transforming raw 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/> <sub>Streamlit</sub>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28"/> <sub>Power BI</sub>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="28"/> <sub>Tableau</sub>
-</p>
-
-**Dev Tools:**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="40"/> <sub>Git</sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="40"/> <sub>GitHub</sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="40"/> <sub>VS Code</sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" width="40"/> <sub>Postman</sub>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=linux" width="40"/> <sub>Linux</sub>
 </p>
 
 ---
